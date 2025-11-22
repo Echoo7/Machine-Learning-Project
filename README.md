@@ -22,7 +22,7 @@ L’objectif de cette organisation est de permettre à chacun de :
    `Git: Clone`
 
 3. **Collez le lien du dépôt GitHub** (bouton vert “Code” → lien HTTPS, par ex.  
-   `https://github.com/votre-nom-utilisateur/velo-lyon-project.git`)
+   `https://github.com/Echoo7/Machine-Learning-Project`)
 
 4. **Choisissez un dossier local** où Visual Studio Code téléchargera le projet.
 
